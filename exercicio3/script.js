@@ -38,3 +38,6 @@ pokemon2.ataques.push({
 
 // f)
 console.log("Pokemon Original:", pokemon1, "\nPokemon Copia:", pokemon2);
+
+// Exemplo para o THIAGÃO
+// GARAPILDES DE AÇULQUES
